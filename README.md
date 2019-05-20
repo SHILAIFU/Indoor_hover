@@ -2,7 +2,7 @@
     本项目实现无人机室内悬停飞行测试。
 # 相关硬件
   
-    1、M100无人机（[参见]("https://www.dji.com/cn/matrice100/info))）[简书](http://www.jianshu.com)
+    1、M100无人机（参见"https://www.dji.com/cn/matrice100/info）
     2、TX2处理器（参见https://www.nvidia.cn/autonomous-machines/embedded-systems/jetson-tx2/）
     3、ZED双目摄像头(参见https://www.stereolabs.com/zed/)
 # 软件安装
